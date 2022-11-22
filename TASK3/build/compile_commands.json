@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/siriuscxx/TASK3/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TASK3.dir\\robot\\location.cpp.obj -c C:\\siriuscxx\\TASK3\\robot\\location.cpp",
+  "file": "C:/siriuscxx/TASK3/robot/location.cpp"
+},
+{
+  "directory": "C:/siriuscxx/TASK3/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TASK3.dir\\robot\\main.cpp.obj -c C:\\siriuscxx\\TASK3\\robot\\main.cpp",
+  "file": "C:/siriuscxx/TASK3/robot/main.cpp"
+}
+]

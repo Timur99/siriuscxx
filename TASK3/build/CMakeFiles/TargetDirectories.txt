@@ -1,0 +1,3 @@
+C:/siriuscxx/TASK3/build/CMakeFiles/TASK3.dir
+C:/siriuscxx/TASK3/build/CMakeFiles/edit_cache.dir
+C:/siriuscxx/TASK3/build/CMakeFiles/rebuild_cache.dir
