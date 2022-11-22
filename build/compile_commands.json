@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/siriuscxx/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\siriuscxx.dir\\src\\main.cpp.obj -c \"C:\\siriuscxx\\TASK 1\\src\\main.cpp\"",
+  "file": "C:/siriuscxx/TASK 1/src/main.cpp"
+},
+{
+  "directory": "C:/siriuscxx/build/tests",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\tests.dir\\tests.cpp.obj -c \"C:\\siriuscxx\\TASK 1\\tests\\tests.cpp\"",
+  "file": "C:/siriuscxx/TASK 1/tests/tests.cpp"
+}
+]

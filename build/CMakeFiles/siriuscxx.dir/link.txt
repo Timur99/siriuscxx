@@ -1,0 +1,3 @@
+C:\b_C++\cmake\cmake\cmake-3.25.0-rc3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\siriuscxx.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\siriuscxx.dir/objects.a @CMakeFiles\siriuscxx.dir\objects1
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\siriuscxx.dir/objects.a -Wl,--no-whole-archive -o siriuscxx.exe -Wl,--out-implib,libsiriuscxx.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\siriuscxx.dir\linkLibs.rsp

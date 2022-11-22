@@ -1,0 +1,8 @@
+C:/siriuscxx/build/CMakeFiles/siriuscxx.dir
+C:/siriuscxx/build/CMakeFiles/test.dir
+C:/siriuscxx/build/CMakeFiles/edit_cache.dir
+C:/siriuscxx/build/CMakeFiles/rebuild_cache.dir
+C:/siriuscxx/build/tests/CMakeFiles/tests.dir
+C:/siriuscxx/build/tests/CMakeFiles/test.dir
+C:/siriuscxx/build/tests/CMakeFiles/edit_cache.dir
+C:/siriuscxx/build/tests/CMakeFiles/rebuild_cache.dir

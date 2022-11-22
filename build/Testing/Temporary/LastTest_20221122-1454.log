@@ -1,0 +1,19 @@
+Start testing: Nov 22 17:54 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: tests
+1/1 Test: tests
+Command: "C:/siriuscxx/build/tests/tests.exe"
+Directory: C:/siriuscxx/build/tests
+"tests" start time: Nov 22 17:54 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+True
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"tests" end time: Nov 22 17:54 RTZ 2 (çèìà)
+"tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 17:54 RTZ 2 (çèìà)
